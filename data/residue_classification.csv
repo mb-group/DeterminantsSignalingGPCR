@@ -1,0 +1,413 @@
+amino_acid,GPCRdb,forms_active_contact,in_network,active_contact_in_network,pharma_important,expression,classification
+2,N-term,no,no,no,0,115.2,bystander
+3,N-term,no,no,no,0,101.2,bystander
+4,N-term,no,no,no,0,88.5,bystander
+5,N-term,no,no,no,0,112.1,bystander
+6,N-term,no,no,no,0,86.7,bystander
+7,N-term,no,no,no,0,97.9,bystander
+8,N-term,no,no,no,1,59.5,modulator
+9,N-term,no,no,no,0,116.1,bystander
+10,N-term,no,no,no,0,97.7,bystander
+11,N-term,no,no,no,0,94.2,bystander
+12,N-term,no,no,no,0,71.9,bystander
+13,N-term,no,no,no,0,79.7,bystander
+14,N-term,no,no,no,0,111.2,bystander
+15,N-term,no,no,no,0,55.6,bystander
+16,N-term,no,no,no,0,91.6,bystander
+17,N-term,no,no,no,0,70.3,bystander
+18,N-term,no,no,no,0,100.7,bystander
+19,N-term,no,no,no,0,103.3,bystander
+20,N-term,no,no,no,0,100.2,bystander
+21,N-term,no,no,no,0,105.5,bystander
+22,N-term,no,no,no,0,92.4,bystander
+23,N-term,no,no,no,0,89.3,bystander
+24,N-term,no,no,no,0,88.4,bystander
+25,N-term,no,no,no,0,82.6,bystander
+26,1x25,no,no,no,0,110.1,bystander
+27,1x26,no,no,no,0,78.7,bystander
+28,1x27,no,no,no,0,93.7,bystander
+29,1x28,no,no,no,0,82.8,bystander
+30,1x29,no,no,no,0,84.9,bystander
+31,1x30,no,no,no,0,93.5,bystander
+32,1x31,no,no,no,0,72,bystander
+33,1x32,no,no,no,0,96.6,bystander
+34,1x33,no,no,no,0,76.5,bystander
+35,1x34,no,no,no,0,104.4,bystander
+36,1x35,no,no,no,0,77.3,bystander
+37,1x36,no,no,no,0,108.6,bystander
+38,1x37,no,no,no,0,80.8,bystander
+39,1x38,no,no,no,0,77.8,bystander
+40,1x39,no,no,no,0,77.9,bystander
+41,1x40,no,no,no,0,85.6,bystander
+42,1x41,no,no,no,0,96.2,bystander
+43,1x42,yes,no,"yes, not in network",0,80.3,passenger
+44,1x43,no,no,no,0,83.6,bystander
+45,1x44,no,no,no,0,86.1,bystander
+46,1x45,no,no,no,0,93.4,bystander
+47,1x46,yes,no,"yes, not in network",0,78.9,passenger
+48,1x47,no,no,no,0,90.6,bystander
+49,1x48,no,no,no,1,90.7,modulator
+50,1x49,no,no,no,0,64.6,bystander
+51,1x50,yes,no,"yes, not in network",NA,18.8,NA
+52,1x51,no,no,no,0,103.3,bystander
+53,1x52,no,no,no,0,78.8,bystander
+54,1x53,yes,no,"yes, not in network",0,73.2,passenger
+55,1x54,no,no,no,NA,14.5,NA
+56,1x55,no,no,no,0,90.5,bystander
+57,1x56,yes,no,"yes, not in network",0,38.2,passenger
+58,1x57,no,no,no,1,29.8,modulator
+59,1x58,no,no,no,0,62,bystander
+60,1x59,no,no,no,1,36.7,modulator
+61,1x60,no,no,no,0,59.1,bystander
+62,12x48,no,no,no,0,81.2,bystander
+63,12x49,yes,no,"yes, not in network",0,101.7,passenger
+64,12x50,yes,no,"yes, not in network",NA,17,NA
+65,12x51,yes,no,"yes, not in network",0,60.9,passenger
+66,2x37,yes,no,"yes, not in network",1,27.1,disconnected driver
+67,2x38,no,no,no,0,68,bystander
+68,2x39,yes,yes,"yes, in network",1,57.9,connected driver
+69,2x40,no,no,no,0,62.6,bystander
+70,2x41,yes,no,"yes, not in network",0,52.9,passenger
+71,2x42,yes,yes,"yes, in network",1,26.9,connected driver
+72,2x43,yes,yes,"yes, in network",1,45.7,connected driver
+73,2x44,no,no,no,0,98.9,bystander
+74,2x45,no,no,no,NA,85.7,NA
+75,2x46,yes,no,"yes, not in network",0,81,passenger
+76,2x47,no,no,no,1,31.7,modulator
+77,2x48,no,no,no,0,107.2,bystander
+78,2x49,yes,no,"yes, not in network",1,62.4,disconnected driver
+79,2x50,yes,yes,"yes, in network",1,64.7,connected driver
+80,2x51,yes,no,"yes, not in network",0,68.9,passenger
+81,2x52,no,no,no,0,85.4,bystander
+82,2x53,yes,no,"yes, not in network",1,89.4,disconnected driver
+83,2x54,no,no,no,1,70.8,modulator
+84,2x55,no,no,no,0,89.3,bystander
+85,2x551,no,no,no,0,110.6,bystander
+86,2x56,no,no,no,1,85.5,modulator
+87,2x57,yes,no,"yes, not in network",NA,11.2,NA
+88,2x58,no,no,no,NA,14.3,NA
+89,2x59,no,no,no,0,114.9,bystander
+90,2x60,no,no,no,0,114.3,bystander
+91,2x61,no,no,no,0,117.8,bystander
+92,2x62,no,no,no,0,95,bystander
+93,2x63,no,no,no,0,90.4,bystander
+94,2x64,no,no,no,0,88.9,bystander
+95,2x65,no,no,no,0,68.2,bystander
+96,2x66,no,no,no,0,88.8,bystander
+97,ECL1,no,no,no,0,67.1,bystander
+98,23x49,no,no,no,0,108.5,bystander
+99,23x50,no,no,no,NA,9.2,NA
+100,23x51,no,no,no,0,119.9,bystander
+101,23x52,no,no,no,1,50.9,modulator
+102,3x21,no,no,no,1,31.3,modulator
+103,3x22,no,no,no,0,123.4,bystander
+104,3x23,no,no,no,0,115.4,bystander
+105,3x24,no,no,no,0,97.7,bystander
+106,3x25,no,no,no,NA,15.7,NA
+107,3x26,no,no,no,1,68.8,modulator
+108,3x27,no,no,no,0,61.9,bystander
+109,3x28,no,no,no,0,69.9,bystander
+110,3x29,no,no,no,1,106.1,modulator
+111,3x30,no,no,no,0,110.2,bystander
+112,3x31,no,no,no,0,115.7,bystander
+113,3x32,no,no,no,1,128,modulator
+114,3x33,no,no,no,1,115.8,modulator
+115,3x34,no,no,no,0,107.8,bystander
+116,3x35,no,no,no,1,107.1,modulator
+117,3x36,yes,no,"yes, not in network",1,77.5,disconnected driver
+118,3x37,no,no,no,1,55.9,modulator
+119,3x38,yes,no,"yes, not in network",1,67.3,disconnected driver
+120,3x39,yes,yes,"yes, in network",1,78.3,connected driver
+121,3x40,yes,yes,"yes, in network",1,72.1,connected driver
+122,3x41,yes,no,"yes, not in network",0,102.4,passenger
+123,3x42,yes,no,"yes, not in network",1,34.1,disconnected driver
+124,3x43,yes,yes,"yes, in network",1,27.8,connected driver
+125,3x44,no,no,no,1,113.1,modulator
+126,3x45,no,no,no,0,90.2,bystander
+127,3x46,yes,yes,"yes, in network",1,77.2,connected driver
+128,3x47,no,no,no,0,67.3,bystander
+129,3x48,yes,no,"yes, not in network",0,80.3,passenger
+130,3x49,yes,yes,"yes, in network",1,57.9,connected driver
+131,3x50,yes,no,"yes, not in network",0,52.9,passenger
+132,3x51,no,no,no,1,58.8,modulator
+133,3x52,yes,no,"yes, not in network",0,55.1,passenger
+134,3x53,yes,no,"yes, not in network",0,88.1,passenger
+135,3x54,yes,no,"yes, not in network",1,73.9,disconnected driver
+136,3x55,yes,no,"yes, not in network",0,90.4,passenger
+137,3x56,yes,no,"yes, not in network",0,69.9,passenger
+138,34x50,yes,no,"yes, not in network",1,82.6,disconnected driver
+139,34x51,no,no,no,1,105.6,modulator
+140,34x52,no,no,no,0,94.3,bystander
+141,34x53,yes,no,"yes, not in network",1,86.4,disconnected driver
+142,34x54,no,no,no,0,90,bystander
+143,34x55,no,no,no,0,112.1,bystander
+144,34x56,yes,no,"yes, not in network",0,105.7,passenger
+145,34x57,yes,no,"yes, not in network",0,85.9,passenger
+146,4x38,yes,no,"yes, not in network",1,58.8,disconnected driver
+147,4x39,no,no,no,0,49.7,bystander
+148,4x40,no,no,no,0,91.3,bystander
+149,4x41,no,no,no,0,95.9,bystander
+150,4x42,yes,yes,"yes, in network",1,77.2,connected driver
+151,4x43,no,no,no,0,92.2,bystander
+152,4x44,no,no,no,0,109.1,bystander
+153,4x45,yes,no,"yes, not in network",0,104.4,passenger
+154,4x46,no,no,no,0,84.7,bystander
+155,4x47,no,no,no,0,119.9,bystander
+156,4x48,no,no,no,0,94.7,bystander
+157,4x49,no,no,no,0,76.4,bystander
+158,4x50,no,no,no,1,40.6,modulator
+159,4x51,no,no,no,0,84.8,bystander
+160,4x52,no,no,no,0,93.2,bystander
+161,4x53,no,no,no,1,116.1,modulator
+162,4x54,no,no,no,0,113.9,bystander
+163,4x55,no,no,no,0,98.4,bystander
+164,4x56,yes,no,"yes, not in network",0,119.6,passenger
+165,4x57,no,no,no,0,135.7,bystander
+166,4x58,no,no,no,1,92.2,modulator
+167,4x59,no,no,no,0,98.1,bystander
+168,4x60,no,no,no,NA,11.6,NA
+169,4x61,no,no,no,1,54.6,modulator
+170,4x62,no,no,no,0,66.2,bystander
+171,4x63,no,no,no,0,93.6,bystander
+172,4x64,no,no,no,0,82.6,bystander
+173,ECL2,no,no,no,1,67.9,modulator
+174,ECL2,no,no,no,0,93.1,bystander
+175,ECL2,no,no,no,0,71.5,bystander
+176,ECL2,no,no,no,0,101.4,bystander
+177,ECL2,no,no,no,0,103.6,bystander
+178,ECL2,no,no,no,0,86.4,bystander
+179,ECL2,no,no,no,0,98.6,bystander
+180,ECL2,no,no,no,0,72.6,bystander
+181,ECL2,no,no,no,0,76.6,bystander
+182,ECL2,no,no,no,0,85.6,bystander
+183,ECL2,no,no,no,0,97.3,bystander
+184,ECL2,no,no,no,1,27.9,modulator
+185,ECL2,no,no,no,1,58.9,modulator
+186,ECL2,no,no,no,0,109.4,bystander
+187,ECL2,no,no,no,0,91.4,bystander
+188,ECL2,no,no,no,0,99.3,bystander
+189,ECL2,no,no,no,0,104.2,bystander
+190,ECL2,no,no,no,NA,23.5,NA
+191,45x50,no,no,no,NA,14,NA
+192,45x51,no,no,no,0,71.7,bystander
+193,45x52,no,no,no,1,83,modulator
+194,ECL2,no,no,no,0,95.4,bystander
+195,ECL2,no,no,no,0,94.7,bystander
+196,5x36,no,no,no,1,64.8,modulator
+197,5x37,no,no,no,0,92.3,bystander
+198,5x38,no,no,no,0,145.6,bystander
+199,5x39,yes,no,"yes, not in network",1,34.7,disconnected driver
+200,5x40,yes,no,"yes, not in network",0,139.6,passenger
+201,5x41,yes,no,"yes, not in network",0,119.6,passenger
+202,5x42,no,no,no,0,124.9,bystander
+203,5x43,no,no,no,1,113.7,modulator
+204,5x44,yes,yes,"yes, in network",1,87.4,connected driver
+205,5x45,no,no,no,0,115.5,bystander
+206,5x46,yes,no,"yes, not in network",0,94.6,passenger
+207,5x461,yes,yes,"yes, in network",1,132.7,connected driver
+208,5x47,yes,yes,"yes, in network",1,70.4,connected driver
+209,5x48,no,no,no,1,117.6,modulator
+210,5x49,no,no,no,0,125.7,bystander
+211,5x50,no,no,no,NA,12.7,NA
+212,5x51,yes,no,"yes, not in network",0,125.1,passenger
+213,5x52,no,no,no,0,149.8,bystander
+214,5x53,yes,no,"yes, not in network",1,107.6,disconnected driver
+215,5x54,yes,yes,"yes, in network",1,151.3,connected driver
+216,5x55,yes,no,"yes, not in network",0,132,passenger
+217,5x56,no,no,no,0,121.9,bystander
+218,5x57,no,no,no,0,105.2,bystander
+219,5x58,yes,no,"yes, not in network",1,106.2,disconnected driver
+220,5x59,no,no,no,0,90.9,bystander
+221,5x60,yes,no,"yes, not in network",1,89.9,disconnected driver
+222,5x61,no,no,no,1,81.6,modulator
+223,5x62,yes,no,"yes, not in network",0,68.8,passenger
+224,5x63,no,no,no,0,76.3,bystander
+225,5x64,no,no,no,0,78.6,bystander
+226,5x65,no,no,no,1,51.1,modulator
+227,5x66,no,no,no,0,73.8,bystander
+228,5x67,no,no,no,0,82.3,bystander
+229,5x68,no,no,no,0,83.3,bystander
+230,5x69,yes,no,"yes, not in network",0,90.8,passenger
+231,5x70,no,no,no,0,80.1,bystander
+232,5x71,no,no,no,0,85.4,bystander
+233,5x72,no,no,no,1,92.9,modulator
+234,5x73,no,no,no,0,89.1,bystander
+235,5x74,no,no,no,0,74.7,bystander
+236,5x75,no,no,no,0,75.1,bystander
+237,5x76,no,no,no,0,72.5,bystander
+238,ICL3,no,no,no,0,74.3,bystander
+239,ICL3,no,no,no,0,75.8,bystander
+240,ICL3,no,no,no,0,87.8,bystander
+241,ICL3,no,no,no,0,81.8,bystander
+242,ICL3,no,no,no,0,57.6,bystander
+243,ICL3,no,no,no,0,88.7,bystander
+244,ICL3,no,no,no,0,82.3,bystander
+245,ICL3,no,no,no,0,79.8,bystander
+246,ICL3,no,no,no,0,102.8,bystander
+247,ICL3,no,no,no,0,93.4,bystander
+248,ICL3,no,no,no,0,99.5,bystander
+249,ICL3,no,no,no,0,93.7,bystander
+250,ICL3,no,no,no,0,99.4,bystander
+251,ICL3,no,no,no,0,101.9,bystander
+252,ICL3,no,no,no,0,92.1,bystander
+253,ICL3,no,no,no,0,111.3,bystander
+254,ICL3,no,no,no,0,73.8,bystander
+255,ICL3,no,no,no,0,107.8,bystander
+256,ICL3,no,no,no,0,92,bystander
+257,ICL3,no,no,no,0,85.5,bystander
+258,ICL3,no,no,no,0,93.2,bystander
+259,ICL3,no,no,no,0,99.4,bystander
+260,ICL3,no,no,no,0,115.7,bystander
+261,ICL3,no,no,no,0,105.8,bystander
+262,6x24,no,no,no,0,103.4,bystander
+263,6x25,no,no,no,0,116.9,bystander
+264,6x26,no,no,no,0,79,bystander
+265,6x27,no,no,no,0,77.7,bystander
+266,6x28,no,no,no,0,102,bystander
+267,6x29,no,no,no,0,92.3,bystander
+268,6x30,yes,no,"yes, not in network",1,67.8,disconnected driver
+269,6x31,no,no,no,0,88.9,bystander
+270,6x32,no,no,no,0,93,bystander
+271,6x33,no,no,no,0,92.9,bystander
+272,6x34,no,no,no,0,83.1,bystander
+273,6x35,no,no,no,1,92.1,modulator
+274,6x36,no,no,no,0,82.3,bystander
+275,6x37,yes,no,"yes, not in network",1,87.8,disconnected driver
+276,6x38,no,no,no,0,89.6,bystander
+277,6x39,no,no,no,0,76,bystander
+278,6x40,yes,no,"yes, not in network",0,68.8,passenger
+279,6x41,yes,no,"yes, not in network",1,84.4,disconnected driver
+280,6x42,no,no,no,1,91.9,modulator
+281,6x43,no,no,no,0,95,bystander
+282,6x44,yes,yes,"yes, in network",1,67.4,connected driver
+283,6x45,no,no,no,0,90.9,bystander
+284,6x46,yes,no,"yes, not in network",0,88.3,passenger
+285,6x47,yes,yes,"yes, in network",1,78.2,connected driver
+286,6x48,yes,no,"yes, not in network",NA,10.1,NA
+287,6x49,no,no,no,1,97.3,modulator
+288,6x50,no,no,no,NA,16.3,NA
+289,6x51,no,no,no,1,67.8,modulator
+290,6x52,yes,yes,"yes, in network",1,109.8,connected driver
+291,6x53,no,no,no,NA,1,NA
+292,6x54,no,no,no,0,94.3,bystander
+293,6x55,yes,yes,"yes, in network",1,70.4,connected driver
+294,6x56,yes,no,"yes, not in network",0,70.2,passenger
+295,6x57,yes,no,"yes, not in network",0,55.3,passenger
+296,6x58,no,no,no,0,78.5,bystander
+297,6x59,no,no,no,0,97.7,bystander
+298,6x60,no,no,no,0,68.4,bystander
+299,6x61,no,no,no,0,109.7,bystander
+300,ECL3,no,no,no,0,96.7,bystander
+301,ECL3,no,no,no,0,63.9,bystander
+302,ECL3,no,no,no,0,102.9,bystander
+303,ECL3,yes,no,"yes, not in network",0,50.7,passenger
+304,7x30,no,no,no,0,85.9,bystander
+305,7x31,no,no,no,0,66.8,bystander
+306,7x32,no,no,no,NA,22.7,NA
+307,7x33,no,no,no,0,86.9,bystander
+308,7x34,no,no,no,1,92,modulator
+309,7x35,no,no,no,1,93,modulator
+310,7x36,no,no,no,0,89.8,bystander
+311,7x37,no,no,no,0,87.8,bystander
+312,7x38,no,no,no,1,46.9,modulator
+313,7x39,yes,no,"yes, not in network",1,28.8,disconnected driver
+314,7x40,yes,no,"yes, not in network",0,110.4,passenger
+315,7x41,yes,yes,"yes, in network",1,27.9,connected driver
+316,7x42,yes,no,"yes, not in network",NA,19,NA
+317,7x43,no,no,no,0,91.5,bystander
+318,7x45,yes,yes,"yes, in network",1,86.7,connected driver
+319,7x46,no,no,no,0,93.9,bystander
+320,7x47,no,no,no,0,90,bystander
+321,7x48,no,no,no,0,78.8,bystander
+322,7x49,yes,yes,"yes, in network",1,104.8,connected driver
+323,7x50,no,no,no,1,83.8,modulator
+324,7x51,no,no,no,0,79.2,bystander
+325,7x52,no,no,no,1,58.4,modulator
+326,7x53,yes,yes,"yes, in network",1,91.6,connected driver
+327,7x54,yes,no,"yes, not in network",0,89.4,passenger
+328,7x55,no,no,no,0,98.4,bystander
+329,8x47,no,no,no,0,83.9,bystander
+330,8x48,no,no,no,0,87.3,bystander
+331,8x49,no,no,no,0,68.7,bystander
+332,8x50,yes,yes,"yes, in network",1,45.4,connected driver
+333,8x51,no,no,no,0,91.1,bystander
+334,8x52,no,no,no,0,98,bystander
+335,8x53,no,no,no,0,64.5,bystander
+336,8x54,yes,no,"yes, not in network",0,63.3,passenger
+337,8x55,no,no,no,0,81.4,bystander
+338,8x56,no,no,no,0,66.7,bystander
+339,8x57,no,no,no,0,50.3,bystander
+340,8x58,no,no,no,0,59.8,bystander
+341,8x59,no,no,no,0,76.8,bystander
+342,C-term,no,no,no,0,88.8,bystander
+343,C-term,no,no,no,0,72.5,bystander
+344,C-term,no,no,no,0,72.9,bystander
+345,C-term,no,no,no,0,109.6,bystander
+346,C-term,no,no,no,0,96.9,bystander
+347,C-term,no,no,no,0,109.9,bystander
+348,C-term,no,no,no,0,93.1,bystander
+349,C-term,no,no,no,0,78.3,bystander
+350,C-term,no,no,no,0,73.1,bystander
+351,C-term,no,no,no,0,86,bystander
+352,C-term,no,no,no,0,93,bystander
+353,C-term,no,no,no,0,97,bystander
+354,C-term,no,no,no,0,108.6,bystander
+355,C-term,no,no,no,0,112.4,bystander
+356,C-term,no,no,no,0,98.2,bystander
+357,C-term,no,no,no,0,103.1,bystander
+358,C-term,no,no,no,0,100.8,bystander
+359,C-term,no,no,no,0,106.9,bystander
+360,C-term,no,no,no,0,97.5,bystander
+361,C-term,no,no,no,0,92,bystander
+362,C-term,no,no,no,0,71.9,bystander
+363,C-term,no,no,no,0,70.6,bystander
+364,C-term,no,no,no,0,74.9,bystander
+365,C-term,no,no,no,0,83.5,bystander
+366,C-term,no,no,no,0,92.8,bystander
+367,C-term,no,no,no,0,90.8,bystander
+368,C-term,no,no,no,0,94.5,bystander
+369,C-term,no,no,no,0,96.3,bystander
+370,C-term,no,no,no,0,76.7,bystander
+371,C-term,no,no,no,0,89.2,bystander
+372,C-term,no,no,no,0,71.4,bystander
+373,C-term,no,no,no,0,64.9,bystander
+374,C-term,no,no,no,0,110,bystander
+375,C-term,no,no,no,0,87,bystander
+376,C-term,no,no,no,0,93,bystander
+377,C-term,no,no,no,0,81.3,bystander
+378,C-term,no,no,no,0,77.1,bystander
+379,C-term,no,no,no,0,79.6,bystander
+380,C-term,no,no,no,0,92.2,bystander
+381,C-term,no,no,no,0,102.8,bystander
+382,C-term,no,no,no,0,91.3,bystander
+383,C-term,no,no,no,0,89.3,bystander
+384,C-term,no,no,no,0,89.1,bystander
+385,C-term,no,no,no,0,68.8,bystander
+386,C-term,no,no,no,0,82.1,bystander
+387,C-term,no,no,no,0,87.1,bystander
+388,C-term,no,no,no,0,77.8,bystander
+389,C-term,no,no,no,0,76.2,bystander
+390,C-term,no,no,no,0,60,bystander
+391,C-term,no,no,no,0,70.1,bystander
+392,C-term,no,no,no,0,49.9,bystander
+393,C-term,no,no,no,0,86.6,bystander
+394,C-term,no,no,no,0,97.7,bystander
+395,C-term,no,no,no,0,96.2,bystander
+396,C-term,no,no,no,0,87.5,bystander
+397,C-term,no,no,no,0,77.4,bystander
+398,C-term,no,no,no,0,81.3,bystander
+399,C-term,no,no,no,0,82.4,bystander
+400,C-term,no,no,no,0,66,bystander
+401,C-term,no,no,no,0,93.2,bystander
+402,C-term,no,no,no,0,91.6,bystander
+403,C-term,no,no,no,0,93.3,bystander
+404,C-term,no,no,no,0,85.3,bystander
+405,C-term,no,no,no,0,78.1,bystander
+406,C-term,no,no,no,0,83.4,bystander
+407,C-term,no,no,no,0,74,bystander
+408,C-term,no,no,no,0,60.9,bystander
+409,C-term,no,no,no,0,92.3,bystander
+410,C-term,no,no,no,0,83.6,bystander
+411,C-term,no,no,no,0,92.1,bystander
+412,C-term,no,no,no,0,94.4,bystander
+413,C-term,no,no,no,0,79.9,bystander
